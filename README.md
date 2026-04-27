@@ -8,7 +8,6 @@ This is a capstone project that demonstrates the implementation of autonomous La
 
 - **Authentication System**: Secure user registration and login with JWT tokens
 - **Travel Planning Agents**: Multi-agent system for trip planning, requirements analysis, execution, and review
-- **AI JEE Tutor**: Python-based AI tutoring system for JEE preparation
 - **DevOps Integration**: Jenkins pipeline for CI/CD automation
 - **Containerized Deployment**: Docker Compose setup for easy deployment
 
