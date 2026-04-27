@@ -98,51 +98,6 @@ dist
 # Sveltekit cache directory
 .svelte-kit/
 
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-pip-log.txt
-pip-delete-this-directory.txt
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-
-# Build outputs
-dist/
-build/
-
-# Temporary files
-*.tmp
-*.temp
-
-# Database files (if any local databases)
-*.db
-*.sqlite
-*.sqlite3
-
-# Model outputs and test files (if generated)
-model_test_output.txt
-models_list.txt
-models_methods.txt
-brute.txt
-brute2.txt
-
 # vitepress build output
 **/.vitepress/dist
 
